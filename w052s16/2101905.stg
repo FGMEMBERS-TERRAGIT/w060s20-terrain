@@ -1,0 +1,5 @@
+OBJECT_BASE 2101905.btg
+OBJECT SWAY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -51.836167 -15.728516 307.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -51.836608 -15.719263 317.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -51.836853 -15.723929 314.8 0.00

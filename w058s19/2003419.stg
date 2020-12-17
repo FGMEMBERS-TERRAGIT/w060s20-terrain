@@ -1,0 +1,29 @@
+OBJECT_BASE 2003419.btg
+OBJECT SIJO.btg
+OBJECT_SHARED Models/Airport/windsock.xml -57.512524 -18.579662 90.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.508724 -18.570256 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.509303 -18.571062 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.509882 -18.571867 89.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.510461 -18.572673 90.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.511040 -18.573479 90.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.511619 -18.574285 91.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.512198 -18.575090 91.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.512777 -18.575896 90.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.513356 -18.576702 90.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.513935 -18.577507 89.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.514514 -18.578313 89.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.515094 -18.579119 88.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.514124 -18.578568 89.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.513545 -18.577763 89.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.512966 -18.576957 90.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.512387 -18.576151 90.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.511807 -18.575346 91.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.511228 -18.574540 91.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.510649 -18.573734 90.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.510070 -18.572929 90.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.509491 -18.572123 89.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.508912 -18.571317 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.508333 -18.570512 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -57.507754 -18.569706 -9999.0 0.00
+OBJECT SIWU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -57.597858 -18.518765 93.5 0.00

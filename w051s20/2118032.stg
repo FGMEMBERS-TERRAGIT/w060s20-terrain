@@ -1,0 +1,6 @@
+OBJECT_BASE 2118032.btg
+OBJECT SNEW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.958265 -19.662357 422.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.944346 -19.662782 432.1 0.00
+OBJECT SSZY.btg
+OBJECT_SHARED Models/Airport/windsock.xml -50.951327 -19.663464 428.2 0.00
